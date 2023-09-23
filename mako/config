@@ -1,0 +1,7 @@
+font=OpenSans 11
+background-color=#000000CC
+border-color=#000000D9
+border-radius=10
+icons=1
+progress-color=over #6495ED
+default-timeout=3000
