@@ -13,7 +13,9 @@
 }
 
 window{
+  width: 300px;
   border-radius: 10px;
+  opacity: 0.85;
 }
 
 #input {
@@ -25,6 +27,7 @@ window{
 
 
 #outer-box {
+  width: 300px;
   border-radius: 10px;
   margin: 2px;
   padding:15px;
